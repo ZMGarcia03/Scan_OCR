@@ -1,6 +1,4 @@
-# Scan_OCR
-
-# OCR (Optical Character Recognition) Document Scanning
+# Scan_OCR (Optical Character Recognition) Document Scanning
 
 This project includes implementations in Python and Java to scan a printed document and generate OCR (Optical Character Recognition) text from the scanned image.
 
